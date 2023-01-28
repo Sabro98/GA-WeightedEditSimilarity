@@ -1,3 +1,4 @@
+# GA-WeightedEditSimilarity
 This repository is the official implementation of "**Weighted Edit Distance optimized using Genetic Algorithm for SMILES-based Compound Similarity**, [PAAA](https://www.springer.com/journal/10044)(SCIE)".
 
 Accept: 2023.01.26  
