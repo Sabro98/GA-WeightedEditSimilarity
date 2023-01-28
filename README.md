@@ -5,7 +5,7 @@ Accept: 2023.01.26
 Published: xxxx.xx.xx
 
 ## Abstract
-[Edit distance(Levenshtein distance)](https://en.wikipedia.org/wiki/Levenshtein_distance) has three operation; insert, delete, substitute. We set each operation to have a different weight, which is **Weighted Edit Distance**. With Genetic Algorithm(GA), we present optimal weight set of weighted edit distance for each [SMILES](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system) data. 
+[Edit distance(Levenshtein distance)](https://en.wikipedia.org/wiki/Levenshtein_distance) has three operations; insert, delete, substitute. We set each operation to have a different weight, which is **Weighted Edit Distance**. With Genetic Algorithm(GA), we present optimal weight set of weighted edit distance for each [SMILES](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system) data. 
 
 
 ## Environment
