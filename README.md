@@ -7,7 +7,7 @@ Published: xxxx.xx.xx
 [Edit distance(Levenshtein distance)](https://en.wikipedia.org/wiki/Levenshtein_distance) has three operation; insert, delete, substitute. We set each operation to have a different weight, which is **Weighted Edit Distance**. With Genetic Algorithm(GA), we present optimal weight set of weighted edit distance for each [SMILES](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system) data. 
 
 
-## Env
+## Environment
 ```sh
 conda create -n GA-WeightedEditSimilarity python=3.7 -y
 conda activate GA-WeightedEditSimilarity
