@@ -3,6 +3,8 @@ This repository is the official implementation of "**Weighted Edit Distance opti
 
 Authors: [In-Hyuk Choi](https://orcid.org/0000-0002-4986-9757) and [Il-Seok Oh](https://scholar.google.com/citations?user=GIe5gKsAAAAJ&hl=ko&oi=ao)
 
+DOI: https://doi.org/10.1007/s10044-023-01141-3
+
 Accept: 2023.01.26  
 Publish: xxxx.xx.xx
 
