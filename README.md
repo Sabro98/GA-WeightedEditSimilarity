@@ -30,7 +30,7 @@ We use four [dataset](http://web.kuicr.kyoto-u.ac.jp/supp/yoshi/drugtarget/); En
 ```
 @article{choi2023wes,
   title = {{Weighted edit distance optimized using genetic algorithm for SMILES-based compound similarity}},
-  author = {In-Hyuk CHoi and Il-Seok Oh},
+  author = {In-Hyuk Choi and Il-Seok Oh},
   doi={10.1007/s10044-023-01141-3},
   journal={Pattern Analysis and Applications},
   year={2023}
