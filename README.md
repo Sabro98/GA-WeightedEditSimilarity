@@ -5,8 +5,7 @@ Authors: [In-Hyuk Choi](https://orcid.org/0000-0002-4986-9757) and [Il-Seok Oh](
 
 DOI: https://doi.org/10.1007/s10044-023-01141-3
 
-Accept: 2023.01.26  
-Publish: xxxx.xx.xx
+Published: 18.Feb.2023
 
 ## Introduction
 [Edit distance(Levenshtein distance)](https://en.wikipedia.org/wiki/Levenshtein_distance) has three operations; insert, delete, substitute. We set each operation to have a different weight, which is **Weighted Edit Distance**. With Genetic Algorithm(GA), we present optimal weight set of weighted edit distance for each [SMILES](https://en.wikipedia.org/wiki/Simplified_molecular-input_line-entry_system) data. 
