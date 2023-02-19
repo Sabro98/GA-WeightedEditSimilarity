@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+type: article
+message: "If you use this code, please cite it as below."
+authors:
+- family-names: "Choi"
+  given-names: "In-Hyuk"
+  orcid: "https://orcid.org/0000-0002-4986-9757"
+- family-names: "Oh"
+  given-names: "Il-Seok"
+  orcid: "https://orcid.org/0000-0002-8823-0438"
+title: "Weighted edit distance optimized using genetic algorithm for SMILES-based compound similarity."
+journal: Pattern Analysis and Applications
+doi: 10.1007/s10044-023-01141-3
+date-released: 2023-02-19
+url: "https://github.com/Sabro98/GA-WeightedEditSimilarity"
