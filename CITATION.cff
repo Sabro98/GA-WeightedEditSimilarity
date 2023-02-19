@@ -14,6 +14,7 @@ date-released: 2023-02-19
 url: "https://github.com/Sabro98/GA-WeightedEditSimilarity"
 preferred-citation:
   type: article
+  title: "Weighted edit distance optimized using genetic algorithm for SMILES-based compound similarity."
   authors:
   - family-names: "Choi"
     given-names: "In-Hyuk"
@@ -21,8 +22,7 @@ preferred-citation:
   - family-names: "Oh"
     given-names: "Il-Seok"
     orcid: "https://orcid.org/0000-0002-8823-0438"
-  doi: 10.1007/s10044-023-01141-3
   journal: Pattern Analysis and Applications
+  doi: 10.1007/s10044-023-01141-3
   month: 2
-  title: "Weighted edit distance optimized using genetic algorithm for SMILES-based compound similarity."
   year: 2023
