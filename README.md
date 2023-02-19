@@ -26,4 +26,13 @@ python main.py -d [e, ic, gpcr, nr]
 ## Dataset
 We use four [dataset](http://web.kuicr.kyoto-u.ac.jp/supp/yoshi/drugtarget/); Enzyme, Ion channel, GPCR, Nuclear receptor.
 
-...
+## Citation
+```
+@article{Choi_Weighted_edit_distance_2023,
+  title = {{Weighted edit distance optimized using genetic algorithm for SMILES-based compound similarity}},
+  author = {In-Hyuk CHoi and Il-Seok Oh},
+  doi={10.1007/s10044-023-01141-3},
+  journal={Pattern Analysis and Applications},
+  year={2023}
+}
+```
