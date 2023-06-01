@@ -1,7 +1,7 @@
 # GA-WeightedEditSimilarity
 This repository is the official implementation of "**Weighted Edit Distance optimized using Genetic Algorithm for SMILES-based Compound Similarity**, [PAAA](https://www.springer.com/journal/10044)(SCIE)".
 
-Authors: [In-Hyuk Choi](https://orcid.org/0000-0002-4986-9757) and [Il-Seok Oh](https://scholar.google.com/citations?user=GIe5gKsAAAAJ&hl=ko&oi=ao)
+Authors: [In-Hyuk Choi](https://scholar.google.com/citations?user=QiVyJ8wAAAAJ&hl=ko) and [Il-Seok Oh](https://scholar.google.com/citations?user=GIe5gKsAAAAJ&hl=ko&oi=ao)
 
 DOI: https://doi.org/10.1007/s10044-023-01141-3
 
